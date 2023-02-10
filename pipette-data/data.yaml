@@ -1,0 +1,6 @@
+names:
+- pipets
+nc: 1
+test: ../test/images
+train: pipet-1/train/images
+val: pipet-1/valid/images
